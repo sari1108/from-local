@@ -7,7 +7,7 @@ const b =()=>{
 alert("5")
 return '5';
 }
-const d =()=>{
+const z =()=>{
     confirm("Are you sure?")
 }
 
