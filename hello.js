@@ -1,7 +1,9 @@
 const a =()=>{
-return 6;
+
+    alert("hello")
+
 }
 const b =()=>{
-
+return 5;
 }
 
