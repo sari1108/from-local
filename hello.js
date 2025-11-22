@@ -11,3 +11,8 @@ const z =()=>{
     confirm("Are you sure?")
 }
 
+
+const d =()=>{
+console.log("ccc");
+}
+
