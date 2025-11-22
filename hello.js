@@ -10,4 +10,12 @@ return '5';
 const e =()=>{
     alert("e")
 }
+const z =()=>{
+    confirm("Are you sure?")
+}
+
+
+const d =()=>{
+console.log("ccc");
+}
 
