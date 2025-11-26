@@ -15,4 +15,7 @@ const z =()=>{
 const d =()=>{
 console.log("ccc");
 }
+const e =()=>{
+    alert("hello")
+}
 
